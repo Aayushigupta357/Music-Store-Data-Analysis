@@ -1,15 +1,18 @@
 # Music Store Data Analysis
 
 **Project Overview** 
+
 This Project explores data from a digital music store to derive business insights using SQL. The dataset mimics a real-world scenario with customers, invoices, employees, tracks, artists, albums, and genres. The goal is to perform analysis across different complexity levels—basic, moderate, and advanced—to support strategic decision-making in sales, marketing, and customer management.
 
 **🎯 Objective**
+
 To analyze sales and customer data to identify top-performing entities (e.g., best customer, most profitable city).
 To segment and understand customer preferences based on music genre.
 To identify business opportunities such as top artists, popular genres by country, and high-spending customers.
 To showcase SQL querying skills across various difficulty levels using real-world analytical scenarios.
 
 **Dataset Description**
+
 The dataset includes multiple interconnected tables:
 
 Customer – details of customers including location and contact.
@@ -21,6 +24,7 @@ This relational schema enables multidimensional insights via JOIN operations and
 ![image](https://github.com/user-attachments/assets/f82840f5-e8cd-46aa-a043-8be48919d473)
 
 **🛠 Tools & Libraries Used**
+
 Postgre SQL
 PgAdmin4
 
