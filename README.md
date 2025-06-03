@@ -28,29 +28,33 @@ PgAdmin4
 
 The analysis was structured into three levels:
 
-Level A
+***Level A***
+
 Identified the senior-most employee by job title.
 Found countries with the most invoices (likely strong market presence).
 Listed top 3 invoice totals, revealing highest individual purchases.
 Determined the best customer city based on total revenue.
 Identified the top spending customer.
 
-Level B
+***Level B***
+
 Extracted details of Rock music listeners.
 Ranked the top 10 artists with the most Rock tracks.
 Listed tracks longer than average length, useful for understanding track trends.
 
-Level C
+***Level C***
+
 Analyzed customer spending by artist, pinpointing revenue-driving fans.
 Found the most popular genre per country using purchase frequency.
 Determined the top-spending customer in each country using window functions.
 
 **Key Takeaways**
-Top Revenue Source: A single city and a handful of customers significantly impact revenue.
-Genre Preference: Rock is a dominant genre with widespread listenership and artist participation.
-Artist Engagement: A small set of artists are responsible for a large proportion of tracks.
-Customer Segmentation: High-value customers and genre-based segmentation can guide personalized marketing.
-Global Trends: Spending patterns and genre preferences vary significantly across countries.
+
+***Top Revenue Source:*** A single city and a handful of customers significantly impact revenue.
+***Genre Preference:*** Rock is a dominant genre with widespread listenership and artist participation.
+***Artist Engagement:*** A small set of artists are responsible for a large proportion of tracks.
+***Customer Segmentation:*** High-value customers and genre-based segmentation can guide personalized marketing.
+***Global Trends:*** Spending patterns and genre preferences vary significantly across countries.
 
 **Conclusion**
 
