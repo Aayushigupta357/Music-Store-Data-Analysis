@@ -59,6 +59,7 @@ The Music Store Data Project demonstrates the power of SQL for business intellig
 Whether you're launching a promotional event or seeking to increase customer retention, these insights provide a solid foundation for data-driven decisions.
 
 **Recommendations**
+
 ***1. Focus Marketing Efforts on High-Revenue Cities***
 
 Insight: One city generated the most revenue.
