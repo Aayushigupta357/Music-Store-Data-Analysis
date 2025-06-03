@@ -105,6 +105,7 @@ Insight: Email and customer data were used in queries.
 Action: Leverage email marketing to recommend genres/artists based on past purchases or listening behavior.
 
 **🤝 Contributing**
+
 Feel free to fork this project and contribute. For suggestions or improvements, please open an issue or submit a pull request.
 
 **📬 Contact**
