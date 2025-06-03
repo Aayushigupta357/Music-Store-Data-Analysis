@@ -59,44 +59,44 @@ The Music Store Data Project demonstrates the power of SQL for business intellig
 Whether you're launching a promotional event or seeking to increase customer retention, these insights provide a solid foundation for data-driven decisions.
 
 **Recommendations**
-1. Focus Marketing Efforts on High-Revenue Cities
-Insight: One city generated the most revenue.
+***1. Focus Marketing Efforts on High-Revenue Cities***
 
+Insight: One city generated the most revenue.
 Action: Launch local events (e.g., music festivals, exclusive releases) in that city to reinforce brand loyalty and maximize ROI.
 
-2. Prioritize High-Spending Customers
-Insight: A small number of customers contribute disproportionately to revenue.
+***2. Prioritize High-Spending Customers***
 
+Insight: A small number of customers contribute disproportionately to revenue.
 Action: Implement a loyalty or VIP program to retain top spenders with benefits like early access, discounts, or personalized playlists.
 
-3. Capitalize on Rock Genre Popularity
-Insight: Rock is the most consumed genre globally.
+***3. Capitalize on Rock Genre Popularity***
 
+Insight: Rock is the most consumed genre globally.
 Action: Promote Rock music through curated playlists, social media content, and featured artist collaborations. Consider bundling Rock albums or tracks in promotions.
 
-4. Invest in Top Artists
-Insight: A few artists produce a large volume of popular content.
+***4. Invest in Top Artists***
 
+Insight: A few artists produce a large volume of popular content.
 Action: Strengthen relationships with top-performing artists through promotional partnerships, exclusive content deals, or featured placement on the platform.
 
-5. Personalize Offerings by Country
-Insight: Popular genres vary by country.
+***5. Personalize Offerings by Country***
 
+Insight: Popular genres vary by country.
 Action: Use country-level genre preferences to tailor marketing campaigns, regional recommendations, and localized playlists to increase user engagement.
 
-6. Improve Long Track Promotion
-Insight: Tracks longer than average were identified.
+***6. Improve Long Track Promotion***
 
+Insight: Tracks longer than average were identified.
 Action: Highlight these in special playlists (e.g., “Epic Songs” or “Extended Mixes”), as they may appeal to niche audiences and increase session time.
 
-7. Expand into Underperforming Countries
-Insight: Some countries have lower purchase volumes.
+***7. Expand into Underperforming Countries***
 
+Insight: Some countries have lower purchase volumes.
 Action: Run targeted campaigns or offer discounts to boost acquisition and sales in underpenetrated markets.
 
-8. Optimize Customer Communication
-Insight: Email and customer data were used in queries.
+***8. Optimize Customer Communication***
 
+Insight: Email and customer data were used in queries.
 Action: Leverage email marketing to recommend genres/artists based on past purchases or listening behavior.
 
 **🤝 Contributing**
