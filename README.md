@@ -55,9 +55,13 @@ Determined the top-spending customer in each country using window functions.
 **Key Takeaways**
 
 ***Top Revenue Source:*** A single city and a handful of customers significantly impact revenue.
+
 ***Genre Preference:*** Rock is a dominant genre with widespread listenership and artist participation.
+
 ***Artist Engagement:*** A small set of artists are responsible for a large proportion of tracks.
+
 ***Customer Segmentation:*** High-value customers and genre-based segmentation can guide personalized marketing.
+
 ***Global Trends:*** Spending patterns and genre preferences vary significantly across countries.
 
 **Conclusion**
